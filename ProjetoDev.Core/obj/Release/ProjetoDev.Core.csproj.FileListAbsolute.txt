@@ -1,0 +1,11 @@
+D:\Projetos\ProjetoDev\ProjetoDev\ProjetoDev.Core\bin\Release\ProjetoDev.Core.dll.config
+D:\Projetos\ProjetoDev\ProjetoDev\ProjetoDev.Core\bin\Release\ProjetoDev.Core.dll
+D:\Projetos\ProjetoDev\ProjetoDev\ProjetoDev.Core\bin\Release\ProjetoDev.Core.pdb
+D:\Projetos\ProjetoDev\ProjetoDev\ProjetoDev.Core\bin\Release\EntityFramework.dll
+D:\Projetos\ProjetoDev\ProjetoDev\ProjetoDev.Core\bin\Release\EntityFramework.SqlServer.dll
+D:\Projetos\ProjetoDev\ProjetoDev\ProjetoDev.Core\bin\Release\EntityFramework.xml
+D:\Projetos\ProjetoDev\ProjetoDev\ProjetoDev.Core\bin\Release\EntityFramework.SqlServer.xml
+D:\Projetos\ProjetoDev\ProjetoDev\ProjetoDev.Core\obj\Release\ProjetoDev.Core.csprojResolveAssemblyReference.cache
+D:\Projetos\ProjetoDev\ProjetoDev\ProjetoDev.Core\obj\Release\ProjetoDev.Core.csproj.CoreCompileInputs.cache
+D:\Projetos\ProjetoDev\ProjetoDev\ProjetoDev.Core\obj\Release\ProjetoDev.Core.dll
+D:\Projetos\ProjetoDev\ProjetoDev\ProjetoDev.Core\obj\Release\ProjetoDev.Core.pdb
